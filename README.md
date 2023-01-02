@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vitalii
 
 - 🇨🇦 I live in Toronto, Canada.
-- ☕ I'm an engineer at [Cowbell](https://cowbell.insure/).
+- ☕ I'm software engineer.
 - 🤖 Most of the time I'm writing on Java, Python, Go. Sometimes Kotlin, JavaScript.
 - 📚 I'm believing that DDD should decrease complexity of software.
 - 🚀 I love pet-projects.
