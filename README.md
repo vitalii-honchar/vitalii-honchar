@@ -7,7 +7,7 @@
 - 🚀 I love pet-projects.
 - ✉️ You can shoot me an email at [vitaliy.gonchar.work@gmail.com](mailto:vitaliy.gonchar.work@gmail.com).
 
-**My CV:** [Vitalii Honchar.pdf](https://github.com/vitalii-honchar/vitalii-honchar/raw/b6ed5fd2ac6c94c68369a42f719893327593cbd1/cv.pdf)
+**My CV:** [Vitalii Honchar.pdf](https://github.com/vitalii-honchar/vitalii-honchar/raw/main/cv_vitalii_honchar.pdf)
 
 ## 🤝 Connect with me
 
