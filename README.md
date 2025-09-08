@@ -15,7 +15,7 @@ My CV: [Vitalii Honchar.pdf](https://github.com/vitalii-honchar/vitalii-honchar/
 
 ## 🎥 Watch My YouTube Channel
 
-YouTube: [https://www.youtube.com/@vhonchar](Vitalii Honchar)
+YouTube: [Vitalii Honchar](https://www.youtube.com/@vhonchar)
 
 ## 📖 Read My Technical Blog
 Check out my latest deep-dives on AI infrastructure, high-load systems, and backend engineering at [vitaliihonchar.com](https://vitaliihonchar.com/)
