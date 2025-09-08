@@ -13,6 +13,10 @@
 - ✉️ Reach out: [vitaliy.gonchar.work@gmail.com](mailto:vitaliy.gonchar.work@gmail.com).
 My CV: [Vitalii Honchar.pdf](https://github.com/vitalii-honchar/vitalii-honchar/raw/main/cv_vitalii_honchar.pdf)
 
+## 🎥 Watch My YouTube Channel
+
+YouTube: [https://www.youtube.com/@vhonchar](Vitalii Honchar)
+
 ## 📖 Read My Technical Blog
 Check out my latest deep-dives on AI infrastructure, high-load systems, and backend engineering at [vitaliihonchar.com](https://vitaliihonchar.com/)
 
