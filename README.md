@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Vitalii
 - 🇪🇸 Based in Valencia, Spain.
-- 🌍 Senior Software Engineer with 8+ years of experience in building high-load and high-resilience systems.
+- 🌍 Senior Software Engineer with 9+ years of experience in building high-load and high-resilience systems.
 - ⚙️ Core Technologies & Skills:
   - Programming Languages: Go, Java, Kotlin, Python, JavaScript.
   - Cloud & DevOps: AWS, GCP, Kubernetes, Docker, Terraform, CI/CD.
